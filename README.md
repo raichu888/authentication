@@ -28,7 +28,7 @@ A simple authentication system using **Node.js**, **Express**, **JWT**, and **Va
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/raichu888/authentication.git
+git clone https://github.com/tusharui/authentication.git
 cd authentication
 ```
 
